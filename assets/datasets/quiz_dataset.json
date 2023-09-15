@@ -1,0 +1,200 @@
+[
+    {
+        "id":1,
+        "options": [ "Testing closure",
+        "Deployment phase",
+        "Requirement Phase",
+         "Testing Phase"],
+         "correctAnswer": "Testing Phase",
+        "Question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?"
+    },
+    {
+        "id":2,
+        "options": [ "None of the above",
+        "Design based testing",
+        "Error guessing technique",
+         "Structural testing"],
+         "correctAnswer": "None of the above",
+        "Question": "Which of the following testing is also known as white-box testing?"
+    },
+    {
+        "id":3,
+        "options": [ "None of the above",
+        "Black box testing",
+        "White-box testing",
+         "White box and black box testing"
+        ], "correctAnswer": "White-box testing",
+        "Question": "Which of the following testing is related to the boundary value analysis?"
+    },
+    {
+        "id":4,
+        "options": [ "Test type",
+        "SDLC Model",
+        "Test level",
+         "Test design technique"
+        ], "correctAnswer": "Test design technique",
+        "Question": " Functional testing is a ------?"
+    },
+    {
+        "id": 5,
+        "options": [ "All of the above",
+        "System testing",
+        "Unit testing",
+         "Integration testing"
+        ], "correctAnswer": "Integration testing",
+        "Question": "What are the different levels of Testing?"
+    },
+    {
+        "id": 6,
+        "options": [ "Testing closure",
+        "Test Design",
+        "Requirement Gathering",
+         "Testing Planning"
+        ], "correctAnswer": "Requirement Gathering",
+        "Question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?"
+    },
+    {
+        "id":7,
+        "options": [ "Test design technique",
+        "Test Level",
+        "Test Execution Level",
+         "Test type"
+        ], "correctAnswer": "Test Execution Level",
+        "Question": "Sanity testing is a ------?"
+    },
+    {
+        "id":8,
+        "options": [ "None of the above",
+        "User'sand developer's end",
+        "Developer's end",
+         "User's end"
+        ], "correctAnswer": "User'sand developer's end",
+        "Question": "In which environment we can performed the Alpha testing?"
+    },
+    {
+        "id":9,
+        "options": [ "Entry and exit criteria",
+        "Incident reports",
+        "Risk",
+         "Schedule"
+        ], "correctAnswer": "Risk",
+        "Question": "Which of the below is not a part of the Test Plan?"
+    },
+    {
+        "id":10,
+        "options": [ "None of the mentioned",
+        "Procedure Errors",
+        "Interface Errors",
+         "Design Errors"
+        ], "correctAnswer": "Procedure Errors",
+        "Question": "What is the key objective of Integration testing?"
+    },
+    {
+        "id":11,
+        "options": [ "Grey Box Test Design Technique",
+        "Black Box Test Design Technique",
+        "White Box Test Design Technique",
+         "Experience-based Test Design Technique"
+        ], "correctAnswer": "Grey Box Test Design Technique",
+        "Question": "Exploratory testing is a -----?"
+    },
+    {
+        "id":12,
+        "options": [ "Both option a & c",
+        "When the environment has been modified",
+        "As frequently as possible",
+         "After the software has been modified"
+        ], "correctAnswer": "After the software has been modified",
+        "Question": "What is the best time to perform Regression testing?"
+    },
+    {
+        "id":13,
+        "options": [ "All of the above",
+        "The testing team is not good",
+        "Developers are super",
+         "Product is old"
+        ], "correctAnswer": "Developers are super",
+        "Question": "Does the customer get a 100% bug-free product?"
+    },
+    {
+        "id":14,
+        "options": [ "All of the above",
+        "Grey box testing",
+        "Black box testing",
+         "White-box testing"
+        ], "correctAnswer": "All of the above",
+        "Question": " Cyclomatic complexity is?"
+    },
+    {
+        "id":15,
+        "options": [ "Database testing",
+        "Statement testing",
+        "System testing",
+         "Function testing"
+        ], "correctAnswer": "System testing",
+        "Question": "Which of the following is not part of the Test type?"
+    },
+    {
+        "id":16,
+        "options": [ "Test Plan",
+        "Test Case",
+        "Test Summary Report",
+         "Defect Report"
+        ], "correctAnswer": "Defect Report",
+        "Question": "Which Test Document is used to define the Exit Criteria of Testing?"
+    },
+    {
+        "id":17,
+        "options": [ "How many more test cases need to write?",
+        "Different Tools to perform Regression Testing",
+        "How much regression testing should be done?",
+         "Exit Criteria"
+        ], "correctAnswer": "Different Tools to perform Regression Testing",
+        "Question": "Impact analysis helps us to decide which of the following testing?"
+    },
+    {
+        "id":18,
+        "options": [ "Combination of all",
+        "Black Box testing",
+        "Grey box testing",
+         "White-box testing"
+        ], "correctAnswer": "Grey box testing",
+        "Question": "Which testing technique is used for usability testing?"
+    },
+    {
+        "id":19,
+        "options": [ "Bottom-up approach",
+        "Functional incrimination",
+        "Top-down approach",
+         "Big bang approach"
+        ], "correctAnswer": "Bottom-up approach",
+        "Question": "Which is not the right approach of Incremental testing approach?"
+    },
+    {
+        "id":20,
+        "options": [ "None of the above",
+        "User's end",
+        "Developer's end",
+         "User's and developer's end"
+        ], "correctAnswer": "Developer's end",
+        "Question": "In which environment we can performed the Beta testing?"
+    },
+    {
+        "id":21,
+        "options": [ "Test case design\/ data management techniques",
+        "Test execution techniques",
+        "Test verification techniques",
+         "Test control management techniques"
+        ], "correctAnswer": "Test control management techniques",
+        "Question": " What is error guessing in software testing?"
+    },
+    {
+        "id":22,
+        "options": [ "After the installation phase",
+        "After SRS creation",
+        "After designing phase",
+         "After the coding phase"
+        ], "correctAnswer": "After the installation phase",
+        "Question": " After which phase, we can proceed to the white box testing?"
+    }
+]
