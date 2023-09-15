@@ -35,7 +35,7 @@ Follow these steps to run the project:
 
 1.  Navigate to the project directory:
    ```bash
-   cd mcq_quiz_app
+   cd mcq_quiz
    
    ```
 
