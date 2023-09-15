@@ -1,6 +1,6 @@
 # MCQ Quiz App with Provider Documentation
 
-This documentation provides a comprehensive guide on Runnibg, and testing the Multiple Choice Quiz (MCQ) app implemented using Flutter and the Provider package for state management and Following Clean Architeture. This app allows users to take quizzes, answer multiple-choice questions, track their scores, and receive feedback on their answers.
+This documentation provides a comprehensive guide on Running, and testing the Multiple Choice Quiz (MCQ) app implemented using Flutter and the Provider package for state management and Following Clean Architeture. This app allows users to take quizzes, answer multiple-choice questions, track their scores, and receive feedback on their answers.
 
 ## Table of Contents
 1. [Introduction](#introduction)
